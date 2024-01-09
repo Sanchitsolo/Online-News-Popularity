@@ -27,15 +27,15 @@ Number of Attributes: 61 (58 explanatory attributes, 2 non-explanatory, 1 goal f
 
 # Tech:
 
-Python 3
-scikit-learn:
-Random Forest
-Support Vector Machine
-KNN - K-Nearest Neighbor
-numpy
-pandas
-matplotlib
-seaborn
+Python 3,
+scikit-learn,
+Random Forest,
+Support Vector Classifier,
+XG Boost,
+numpy,
+pandas,
+matplotlib,
+seaborn,
 
 
 
